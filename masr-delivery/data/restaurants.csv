@@ -1,0 +1,8 @@
+# id,name,district,cuisines(|),rating,open
+R01,Abou Tarek Koshary,Maadi,Egyptian|Vegetarian,4.8,true
+R02,Zooba Grill House,Maadi,Egyptian|Grill,4.6,true
+R03,Shawarma Al-Dokki,Dokki,Middle Eastern|Fast Food,4.2,true
+R04,Cairo Pizza Co,Nasr City,Italian|Pizza,4.4,true
+R05,Heliopolis Mix Grill,Heliopolis,Grill|Egyptian,4.9,true
+R06,Faisal Fried Chicken,Faisal,Fast Food|American,3.9,true
+R07,Closed Corner Cafe,Maadi,Cafe|Desserts,4.1,false

@@ -1,0 +1,5 @@
+# id,name,mobile,wallet,completedOrders(tier is derived from this),addresses(district:detail|district:detail)
+C01,Mona Hassan,01012345678,500.00,0,Faisal:Building 12 Pyramids Rd|Dokki:Street 9 flat 4
+C02,Ahmed Samir,01112345678,300.00,12,Maadi:Road 9 villa 3
+C03,Layla Fathy,01212345678,1000.00,35,Heliopolis:Korba Square apt 7|Nasr City:Abbas El Akkad 20
+C04,Omar Nabil,01512345678,50.00,0,Nasr City:Makram Ebeid 5

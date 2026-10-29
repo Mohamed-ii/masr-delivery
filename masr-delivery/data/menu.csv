@@ -1,0 +1,24 @@
+# restaurantId,itemId,type,name,price,category,prepMinutes,available,extra(combo: IDS@discount%)
+R01,K1,STANDARD,Koshary Medium,45.00,Mains,10,true,
+R01,K2,STANDARD,Koshary Large,65.00,Mains,10,true,
+R01,K3,STANDARD,Rice Pudding,25.00,Desserts,5,true,
+R01,K4,COMBO,Koshary Feast,0,Combos,12,true,K2+K3@10
+R02,G1,WEIGHTED,Mixed Grill per kg,420.00,Grill,30,true,
+R02,G2,STANDARD,Kofta Sandwich,70.00,Sandwiches,15,true,
+R02,G3,STANDARD,Baladi Bread Basket,15.00,Sides,3,true,
+R02,G4,COMBO,Sandwich Combo,0,Combos,15,true,G2+G3@10
+R02,G5,STANDARD,Grilled Liver Plate,95.00,Mains,18,false,
+R03,S1,STANDARD,Chicken Shawarma,60.00,Sandwiches,8,true,
+R03,S2,STANDARD,Beef Shawarma,80.00,Sandwiches,8,true,
+R03,S3,STANDARD,Fries,25.00,Sides,5,true,
+R03,S4,COMBO,Shawarma Meal,0,Combos,10,true,S1+S3@12
+R04,P1,STANDARD,Margherita,110.00,Pizza,20,true,
+R04,P2,STANDARD,Pepperoni,140.00,Pizza,20,true,
+R04,P3,STANDARD,Tiramisu,60.00,Desserts,5,true,
+R05,M1,WEIGHTED,Kebab per kg,480.00,Grill,35,true,
+R05,M2,WEIGHTED,Kofta per kg,380.00,Grill,30,true,
+R05,M3,STANDARD,Tahini Salad,30.00,Sides,5,true,
+R06,F1,STANDARD,Fried Chicken 4pc,95.00,Mains,15,true,
+R06,F2,STANDARD,Zinger Burger,75.00,Burgers,12,true,
+R06,F3,STANDARD,Cola,15.00,Drinks,1,true,
+R07,C1,STANDARD,Cappuccino,45.00,Drinks,5,true,
